@@ -1,30 +1,16 @@
 [
     {
         "DATA": "2025-09-14",
-        "HORA_INICIO": "22:51:00",
-        "HORA_TÉRMINO": "22:51:00",
-        "Modelo": "d",
-        "OF": "d",
-        "CLIENTE": "d",
-        "QTD_PEÇAS_APROVADAS": 1,
-        "MOTIVO_FALHAS": "d",
-        "QTD_RETRABALHADA": 1,
-        "RESPONSÁVEL": "d",
-        "setor": "Serra",
-        "TURNO": "3"
-    },
-    {
-        "DATA": "2025-09-14",
-        "HORA_INICIO": "22:53:00",
-        "HORA_TÉRMINO": "22:53:00",
-        "Modelo": "d",
-        "OF": "d",
-        "CLIENTE": "d",
-        "QTD_PEÇAS_APROVADAS": 1,
-        "MOTIVO_FALHAS": "d",
-        "QTD_RETRABALHADA": 1,
-        "RESPONSÁVEL": "d",
-        "setor": "Solda",
-        "TURNO": "3"
+        "HORA_INICIO": "23:11:00",
+        "HORA_TÉRMINO": "23:11:00",
+        "Modelo": "Shuttle",
+        "OF": "001100",
+        "CLIENTE": "MercadoAzul",
+        "QTD_PEÇAS_APROVADAS": 312,
+        "MOTIVO_FALHAS": "Queda energia",
+        "QTD_RETRABALHADA": 21,
+        "RESPONSÁVEL": "Cliente",
+        "setor": "Retrabalho",
+        "TURNO": "1"
     }
 ]
