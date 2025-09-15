@@ -27,6 +27,27 @@ Este projeto consiste em uma robusta aplicação web desenvolvida em **Python** 
 
 O principal objetivo deste sistema é **desmistificar a gestão de dados de produção**, fornecendo uma ferramenta acessível que capacita equipes operacionais e de gestão a monitorar, analisar e otimizar seus processos produtivos. Ao consolidar informações de forma clara e exportável, o sistema se torna um pilar fundamental para a inteligência de negócios e a melhoria contínua da qualidade.
 
+## 💻 Como Usar
+
+Siga os passos abaixo para rodar o sistema na sua máquina:
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone https://github.com/Kripjooj/Sistema-de-Gest-o-de-Produ-o-com-Streamlit.git
+    ```
+
+2.  **Instale as dependências:**
+    ```bash
+    pip install streamlit openpyxl
+    ```
+
+3.  **Execute a aplicação:**
+    ```bash
+    streamlit run app.py
+    ```
+
+4.  O sistema será iniciado e uma nova janela no seu navegador será aberta automaticamente.
+
 ## 📸 Demonstração em Ação
 
 Confira o sistema em funcionamento através das capturas de tela abaixo:
